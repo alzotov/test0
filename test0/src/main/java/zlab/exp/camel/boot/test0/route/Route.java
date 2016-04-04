@@ -9,6 +9,7 @@ import zlab.exp.camel.boot.test0.model.CardType;
 import zlab.exp.camel.boot.test0.processor.impl.CreditCardProcessor;
 import zlab.exp.camel.boot.test0.processor.impl.DebitCardProcessor;
 
+//Engine of application
 @Component
 public class Route extends RouteBuilder {
 
